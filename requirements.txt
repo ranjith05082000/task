@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+torch
+opencv-python
+pillow
+jupyter
+pdf2image
+Levenshtein
+os
+easyocr
+utils
+preprocess
+spellchecker
